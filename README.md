@@ -3,6 +3,8 @@
 ## Overview
 This project is an **MVC-based web application** integrated with a **Python API** to handle file uploads, process embeddings using `all-MiniLM-L6-v2`, store them in **FAISS vector database**, and retrieve relevant documents for a **Phi-3 LLM** chatbot. The chatbot maintains conversation history to provide context-aware responses.
 
+![MicrosoftTeams-image](https://github.com/user-attachments/assets/d57df613-7494-49fc-bfd2-783b4ea0043f)
+
 ## Features
 - **File Upload & Deletion**: Users can select multiple files to upload and delete via the MVC UI.
 - **Embeddings Storage**: Uploaded files are processed using `all-MiniLM-L6-v2` and stored in **FAISS**.
@@ -81,4 +83,3 @@ This project is licensed under the MIT License.
 
 ## Contact
 For any issues or feature requests, please raise a GitHub issue or reach out to the project maintainer.
-
