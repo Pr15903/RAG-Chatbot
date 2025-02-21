@@ -1,4 +1,4 @@
-# MVC Python API with FAISS Vector DB and LLM Integration
+# MVC Project with Python API with FAISS Vector DB and LLM Integration
 
 ## Overview
 This project is an **MVC-based web application** integrated with a **Python API** to handle file uploads, process embeddings using `all-MiniLM-L6-v2`, store them in **FAISS vector database**, and retrieve relevant documents for a **Phi-3 LLM** chatbot. The chatbot maintains conversation history to provide context-aware responses.
